@@ -1,0 +1,51 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Type,Property_Value,Course_Type,Academic_Performance,Loan_Status
+LP001001,Male,No,0,Graduate,No,5849,0,146,360,1,Urban,Home,200000,,0,Y
+LP001002,Male,Yes,1,Graduate,No,4583,1508,128,360,1,Rural,Home,180000,,0,N
+LP001003,Male,Yes,0,Graduate,Yes,3000,0,66,360,1,Urban,Education,,Engineering,3.5,Y
+LP001004,Male,Yes,0,Not Graduate,No,2583,2358,120,360,1,Urban,Home,220000,,0,Y
+LP001005,Male,No,0,Graduate,Yes,6000,0,141,360,1,Urban,Home,240000,,0,Y
+LP001006,Male,Yes,2,Graduate,Yes,5417,4196,267,360,1,Urban,Home,350000,,0,Y
+LP001007,Male,Yes,0,Not Graduate,No,2333,1516,95,360,1,Urban,Home,160000,,0,Y
+LP001008,Male,Yes,3+,Graduate,No,3036,2504,158,360,0,Semiurban,Home,200000,,0,N
+LP001009,Male,Yes,2,Graduate,No,4006,1526,168,360,1,Urban,Home,250000,,0,Y
+LP001010,Male,Yes,0,Graduate,No,12841,10968,349,360,1,Semiurban,Home,450000,,0,N
+LP001011,Male,Yes,2,Graduate,Yes,5200,0,70,360,1,Urban,Education,,Medical,3.8,Y
+LP001012,Female,No,0,Graduate,No,9703,0,187,360,1,Urban,Home,280000,,0,Y
+LP001013,Male,Yes,0,Not Graduate,No,4297,1297,133,360,1,Urban,Home,210000,,0,Y
+LP001014,Male,Yes,2,Graduate,No,3648,1543,115,360,0,Urban,Home,190000,,0,N
+LP001015,Male,No,0,Not Graduate,No,2165,3422,152,360,1,Urban,Home,200000,,0,Y
+LP001016,Male,Yes,1,Graduate,No,5516,11300,221,360,1,Urban,Home,320000,,0,Y
+LP001017,Male,Yes,0,Not Graduate,No,3200,2254,126,360,1,Urban,Home,180000,,0,Y
+LP001018,Male,Yes,2,Graduate,No,2900,0,113,360,1,Urban,Education,,MBA,3.2,Y
+LP001019,Female,No,0,Graduate,No,3086,0,60,360,1,Urban,Education,,Law,3.6,Y
+LP001020,Male,Yes,1,Graduate,Yes,4943,0,155,360,0,Urban,Home,230000,,0,N
+LP001021,Male,Yes,0,Graduate,No,6435,0,129,360,1,Urban,Home,200000,,0,Y
+LP001022,Female,Yes,0,Graduate,No,2900,1666,81,360,1,Urban,Education,,Engineering,3.7,Y
+LP001023,Male,Yes,2,Graduate,No,9857,0,304,360,1,Urban,Home,400000,,0,Y
+LP001024,Male,Yes,0,Graduate,No,31603,1387,297,360,1,Urban,Home,500000,,0,Y
+LP001025,Male,Yes,3+,Graduate,No,4583,2083,176,360,1,Semiurban,Home,260000,,0,Y
+LP001026,Male,Yes,1,Graduate,No,1961,41667,200,360,1,Urban,Home,300000,,0,Y
+LP001027,Female,Yes,1,Graduate,No,7200,0,30,360,1,Urban,Education,,Medical,3.9,Y
+LP001028,Male,Yes,2,Graduate,No,5266,1774,187,360,1,Urban,Home,280000,,0,Y
+LP001029,Male,Yes,0,Graduate,Yes,11146,0,136,360,1,Urban,Home,220000,,0,Y
+LP001030,Male,Yes,1,Graduate,No,5575,1650,165,360,1,Semiurban,Home,250000,,0,Y
+LP001031,Male,Yes,3+,Graduate,No,5821,0,144,360,1,Rural,Home,200000,,0,Y
+LP001032,Male,Yes,0,Graduate,No,3333,2451,90,360,0,Semiurban,Home,170000,,0,N
+LP001033,Female,Yes,1,Not Graduate,No,3401,2504,93,360,1,Urban,Home,160000,,0,Y
+LP001034,Male,Yes,0,Graduate,No,2504,3073,81,360,1,Urban,Education,,Engineering,3.4,Y
+LP001035,Male,Yes,2,Graduate,No,6819,1250,187,360,1,Urban,Home,280000,,0,Y
+LP001036,Male,Yes,0,Not Graduate,No,4418,0,97,360,1,Urban,Home,170000,,0,Y
+LP001037,Male,Yes,0,Graduate,No,3225,5250,128,360,1,Urban,Home,220000,,0,Y
+LP001038,Male,Yes,1,Graduate,No,4864,0,132,360,0,Urban,Home,200000,,0,N
+LP001039,Male,Yes,0,Graduate,Yes,1800,1213,47,360,1,Rural,Education,,Other,3.1,Y
+LP001040,Male,No,0,Graduate,No,2400,0,24,360,1,Urban,Education,,MBA,3.5,Y
+LP001041,Male,Yes,0,Graduate,No,3817,2063,136,360,1,Urban,Home,220000,,0,Y
+LP001042,Male,Yes,2,Graduate,No,2875,2520,95,360,1,Urban,Home,180000,,0,Y
+LP001043,Male,Yes,1,Graduate,No,4583,0,130,360,0,Semiurban,Home,200000,,0,N
+LP001044,Female,Yes,0,Graduate,No,8000,0,205,360,1,Urban,Home,300000,,0,Y
+LP001045,Male,Yes,1,Graduate,No,2009,1717,40,360,1,Semiurban,Education,,Law,3.3,Y
+LP001046,Male,Yes,0,Not Graduate,No,3366,2200,101,360,1,Urban,Home,180000,,0,Y
+LP001047,Male,Yes,0,Graduate,No,1980,0,25,300,1,Urban,Education,,Engineering,3.7,Y
+LP001048,Female,No,0,Graduate,Yes,8072,240,253,360,1,Urban,Home,350000,,0,Y
+LP001049,Male,Yes,0,Not Graduate,No,1442,0,35,360,1,Urban,Education,,Other,2.8,N
+LP001050,Male,Yes,0,Graduate,No,9703,0,187,360,1,Urban,Home,280000,,0,Y
